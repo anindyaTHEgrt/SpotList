@@ -1,4 +1,4 @@
-# 🎵 Spotlist
+# 🎵 SpotList
 
 > **Discover your next favorite track with a swipe.**
 > Spotlist is an AI-powered, Tinder-style song discovery and playlist generation web application. By combining Natural Language Processing (to understand your "vibe") with Machine Learning (to dynamically adapt to your taste), Spotlist serves up a continuous, personalized feed of Spotify tracks.
